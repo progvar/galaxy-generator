@@ -1,4 +1,4 @@
-# Three.js Galaxy generator
+# Three.js galaxy generator
 
 ### Install dependencies
 
