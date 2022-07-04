@@ -9,7 +9,7 @@ const commonConfiguration = {
     output: {
         hashFunction: 'xxhash64',
         filename: 'bundle.[contenthash].js',
-        path: path.resolve(__dirname, '../dist'),
+        path: path.resolve(__dirname, '../demo'),
     },
     devtool: 'source-map',
     plugins: [
